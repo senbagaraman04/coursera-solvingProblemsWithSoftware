@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="hello"/>
+	<classpathentry kind="src" path="perimeter_quiz"/>
+	<classpathentry kind="lib" path="D:/Learning/angularNew/coursera/ProblemsWithSoftware/coursera-solvingProblemsWithSoftware/apache-csv.jar"/>
+	<classpathentry kind="lib" path="D:/Learning/angularNew/coursera/ProblemsWithSoftware/coursera-solvingProblemsWithSoftware/courserajava.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
