@@ -50,10 +50,7 @@ See if there is a gene by calling findSimpleGene with this string as the paramet
 public class StringsFirstAssignments
 {
     
-    public StringsFirstAssignments()
-    {
-    }
-    
+   
     public static void main(String[] args)
     {
         /*
