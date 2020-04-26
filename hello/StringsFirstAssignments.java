@@ -1,6 +1,9 @@
+import java.io.File;
+
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 
+import edu.duke.DirectoryResource;
 import edu.duke.FileResource;
 import edu.duke.URLResource;
 
